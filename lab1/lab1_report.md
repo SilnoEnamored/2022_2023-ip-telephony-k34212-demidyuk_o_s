@@ -9,8 +9,10 @@ Date of create: 18.03.2023
 Date of finished: ...   
 
 Цель работы: Изучить рабочую среду Cisco Packet Tracer, ознакомить- ся с интерфейсами основных устройств, типами кабелей, научиться собирать топологию. Изучить построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer.  
-Ход работы:   
+Ход работы:  
+
 ЧАСТЬ 1 
+
 1. Была собрана схема соединения.
  
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/1.jpg)
