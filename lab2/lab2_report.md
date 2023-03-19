@@ -80,4 +80,4 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/23.jpg)
 
-Вывод:
+Вывод: В ходе выполнения работы было изучено построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco catalyst 3560 и IP телефонов Cisco 7960.
