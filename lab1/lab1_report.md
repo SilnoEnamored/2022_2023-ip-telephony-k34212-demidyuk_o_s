@@ -10,6 +10,7 @@ Date of finished: ...
 
 Цель работы: Развернуть виртаульную машину на Яндекс Облаке с установленной системой контроля конфигурации Ansible, установка CHR в VirtualBox и организовать VPN между ними.  
 Ход работы:  
+ЧАСТЬ 1 
 1. Была собрана схема соединения.
  
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/1.jpg)
@@ -23,6 +24,8 @@ Date of finished: ...
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/3.jpg)
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/4.jpg)
+
+ЧАСТЬ 2 
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/5.jpg)
 
