@@ -52,8 +52,10 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/10.jpg)
 
-7. Далее каждому телефону был присвоен номер, 54001 и 54002. Были проверены звонки между теелфонами.
+7. Далее каждому телефону был присвоен номер, 54001 и 54002. Были проверены звонки между телефонами.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/11.jpg)
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/12.jpg)
+
+Вывод: В ходе выполнения работы были изучена рабочая среда Cisco Packet Tracer, ознакомлены с интерфейсами основных устройств, типами кабелей, собрана топология. Изучено построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer.
