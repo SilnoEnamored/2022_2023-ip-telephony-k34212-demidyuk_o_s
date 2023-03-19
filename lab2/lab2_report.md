@@ -80,11 +80,19 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/18.jpg)
 
+7. Далее были созданы логические подынтерфейсы для VLAN 10, VLAN 20, VLAN 99.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/19.jpg)
+
+8. Были исключен из пула адрес интерфейса маршрутизатора и DNS-сервера.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/20.jpg)
 
+9. Также был был настроен DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/21.jpg)
+
+10.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/22.jpg)
 
