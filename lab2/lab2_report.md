@@ -100,7 +100,7 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/26.jpg)
 
-![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/23.jpg)
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/30.jpg)
 
 12. Были проверены звонки между телефонами.
 
