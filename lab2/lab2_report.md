@@ -17,6 +17,8 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/1.jpg)
 
+2. Отключен синтаксис ввода слов от DNS серверов.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/2.jpg)
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/3.jpg)
