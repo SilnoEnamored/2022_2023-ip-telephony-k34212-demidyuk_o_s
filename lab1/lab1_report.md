@@ -27,9 +27,13 @@ Date of finished: ...
 
 ЧАСТЬ 2 
 
-![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/5.jpg)
+1. Была собрана схема соединения.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/6.jpg)
+
+2. Изменино имя маршрутизатора на CMERouter.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/5.jpg)
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/7.jpg)
 
