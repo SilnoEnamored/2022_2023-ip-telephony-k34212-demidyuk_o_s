@@ -40,7 +40,11 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/7.jpg)
 
+7. Далее был настроен интерфейс управления коммутатором (SwitchA) в сети VLAN через назначение диапазона портов.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/8.jpg)
+
+8. Далее каждому телефону был присвоен номер, 54001,54002 и 54003. Были проверены звонки между телефонами.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/9.jpg)
 
