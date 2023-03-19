@@ -56,15 +56,23 @@ Date of finished: ...
 
 ЧАСТЬ 2 
 
-1.
+1. Была собрана схема соединения.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/13.jpg)
 
+2. Были созданы vlan и присвоены им наименования.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/14.jpg)
+
+3. Настроена vlan99.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/15.jpg)
 
+4. Задан маршрут по умолчанию.
+
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/16.jpg)
+
+5.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/17.jpg)
 
