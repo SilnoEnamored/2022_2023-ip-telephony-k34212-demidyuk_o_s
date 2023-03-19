@@ -72,9 +72,11 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/16.jpg)
 
-5.
+5. Затем был настроен интерфейс управления коммутатором в сети VLAN через назначение диапазона портов.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/17.jpg)
+
+6. Включен интерфейс FastEthernet0/0.
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab2/screenshots/18.jpg)
 
