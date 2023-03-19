@@ -7,3 +7,9 @@ Author: Demidyuk Oleg Sergeevich
 Lab: Lab1   
 Date of create: 18.03.2023   
 Date of finished: ...   
+
+Цель работы: Развернуть виртаульную машину на Яндекс Облаке с установленной системой контроля конфигурации Ansible, установка CHR в VirtualBox и организовать VPN между ними.  
+Ход работы:  
+1. Собрана схема соединения.
+ 
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/1.jpg)
