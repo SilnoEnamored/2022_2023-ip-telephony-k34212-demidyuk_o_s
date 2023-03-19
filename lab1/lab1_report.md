@@ -15,7 +15,7 @@ Date of finished: ...
  
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/1.jpg)
 
-2. Для каждого компьютера были задани ip и макси. 
+2. Для каждого компьютера были задани ip(192.168.1.2 - 192.168.1.8) и макси. 
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab1/screenshots/2.jpg)
 
