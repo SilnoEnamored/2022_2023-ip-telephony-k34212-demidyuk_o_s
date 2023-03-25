@@ -36,5 +36,22 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/7.jpg)
 
+5. Далее была произведена настройка динамической маршрутизации на основе протокола RIP второй версии для передачи информации между маршрутизаторами в сети.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/8.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/9.jpg)
+
+6. Затем была настроен CallManager Express.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/10.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/11.jpg)
+
+7. Назначены диапозоны портов на свитчах. 
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/12.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/13.jpg)
 
 Вывод: В ходе работы была построена и изучена сеть IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т.
