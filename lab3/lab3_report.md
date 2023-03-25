@@ -23,4 +23,18 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/3.jpg)
 
+3. Также создана конфигурация интерфейса s0/1/0 на маршрутизаторах Cisco 2811.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/4.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/5.jpg)
+
+4. Для автоматической настройки компьютеров и IP-телефонов в сети был настроен DHCP сервер на маршрутизаторе Cisco 2811. В
+конфигурационном режиме создан пул DHCP.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/6.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/7.jpg)
+
+
 Вывод: В ходе работы была построена и изучена сеть IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т.
