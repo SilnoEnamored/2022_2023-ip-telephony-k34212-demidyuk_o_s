@@ -54,4 +54,20 @@ Date of finished: ...
 
 ![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/13.jpg)
 
+8. Далее каждому телефону был присвоен номер, на маршрутизаторе RouterA: 1101,1102,1103 и на RouterB: 1201,1202,1203. Была произведена дополнительная конфигурация, были созданы логические "телефонные" линии. 
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/14.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/15.jpg)
+
+9. Были проверены звонки между соседними и удаленными телефонами.
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/16.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/17.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/18.jpg)
+
+![Image text](https://github.com/SilnoEnamored/2022_2023-ip-telephony-k34212-demidyuk_o_s/raw/main/lab3/screenshots/19.jpg)
+
 Вывод: В ходе работы была построена и изучена сеть IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т.
